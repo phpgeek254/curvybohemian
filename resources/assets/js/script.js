@@ -1,0 +1,10 @@
+$(function(){
+    $(".button-collapse").sideNav();
+    $('.parallax').parallax();
+    $('.slider').slider();
+    $('.modal').modal();
+    $(".dropdown-button").dropdown();
+    $('select').material_select();
+    $('.materialboxed').materialbox();
+    $('ul.tabs').tabs();
+});
